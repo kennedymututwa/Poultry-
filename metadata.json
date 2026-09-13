@@ -1,0 +1,6 @@
+{
+  "name": "Farmers Fresh Internal Portal",
+  "description": "Internal Farm Management Portal for workers. Manages poultry houses, shifts, records, and company communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
